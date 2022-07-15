@@ -1,1 +1,1 @@
-learn JDBC
+learn MySQL
